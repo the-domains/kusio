@@ -1,0 +1,23 @@
+name: Kusio
+favicon: null
+layout_spectrum: 0.06535502686165273
+typography_spectrum: 0.7552129933610559
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.16690903343260288
+  lightness: 0.9402849252801389
+  saturation: 0.9799667147453874
+  rhythmicContrast: 0.13763170852325857
+purpose: []
